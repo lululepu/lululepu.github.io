@@ -3,6 +3,20 @@ body {
   background-size: cover;
   overflow: hidden
 }
+.header {
+  min-height: 100vh;
+  width: 100%;
+  position: relative
+}
+
+.example::-webkit-scrollbar {
+  display: none
+}
+
+.example {
+  -ms-overflow-style: none;
+  scrollbar-width: none
+}
 a.github {
   text-decoration: none;
   color: #FFF;
@@ -11,6 +25,7 @@ a.github {
   top: 175px;
   left: 750px;
 }
+
 a.lulu {
   text-decoration: none;
   color: #FFF;
