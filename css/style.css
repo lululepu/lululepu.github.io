@@ -1,0 +1,29 @@
+body {
+  background: url(../image/logo.jpg) no-repeat #161616;
+  background-size: cover;
+  overflow: hidden
+}
+a.github {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 37px;
+  font-family: 'Courier New', monospace;
+  top: 175px;
+  left: 750px;
+}
+a.lulu {
+  text-decoration: none;
+  color: #FFF;
+  margin-left: 750px;
+  top: 1px;
+  font-family: josefin sans,sans-serif;
+  font-size: 60px;
+}
+a.mixiot {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 37px;
+  font-family: 'Courier New', monospace;
+  top: 175px;
+  left: 780px;
+}
