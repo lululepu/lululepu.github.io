@@ -1,0 +1,24 @@
+body {
+  background: url(../image/logo.jpg) no-repeat #161616;
+  background-size: cover;
+  overflow: hidden
+}
+
+
+.example::-webkit-scrollbar {
+  display: none
+}
+
+.example {
+  -ms-overflow-style: none;
+  scrollbar-width: none
+}
+
+a.lulu {
+  text-decoration: none;
+  color: #FFF;
+  margin-left: 755px;
+  top: 100px;
+  font-family: josefin sans,sans-serif;
+  font-size: 80px;
+}
