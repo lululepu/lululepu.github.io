@@ -17,8 +17,24 @@ body {
 a.lulu {
   text-decoration: none;
   color: #FFF;
-  margin-left: 755px;
-  top: 100px;
+  margin-left: 800px;
+  top: 1px;
   font-family: josefin sans,sans-serif;
-  font-size: 80px;
+  font-size: 60px;
+}
+a.dl {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 37px;
+  font-family: 'Courier New', monospace;
+  top: 175px;
+  left: 690px;
+}
+a.mixiot {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 37px;
+  font-family: 'Courier New', monospace;
+  top: 175px;
+  left: 720px;
 }
